@@ -1,0 +1,2 @@
+cd D:\Java Programs\SeleniumJavaHybridFramework\SeleniumHybridFrameworkJava
+mvn clean install
